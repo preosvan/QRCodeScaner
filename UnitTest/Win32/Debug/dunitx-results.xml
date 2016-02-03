@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<test-results name="E:\DelphiProjects\_Kuhtin\QRCodeScaner\downloads\ZXing.Delphi-master\UnitTest\Win32\Debug\dUnitXTest.exe" total="5" errors="0" failures="0" ignored="0" inconclusive="0" not-run="0" skipped="0" invalid="0" date="2016-02-03" time="0.545">
+  <culture-info current-culture="en" current-uiculture="en" />
+  <test-suite type="Assembly" name="dUnitXTest.exe" executed="true" result="Success" success="True" time="0.545" asserts="0">
+    <results>
+        <test-suite type="Namespace" name="Test" executed="true" result="Success" success="True" time="0.545" asserts="0" >
+          <results>
+              <test-suite type="Fixture" name="TZXingDelphiTest" executed="True" result="Success" success="True" time="0.545" >
+                <results>
+                  <test-case name="AllQRCode" executed="True" result="Success" success="True" time="0.383" asserts="0" />
+                  <test-case name="AllCode128" executed="True" result="Success" success="True" time="0.010" asserts="0" />
+                  <test-case name="AllCode93" executed="True" result="Success" success="True" time="0.031" asserts="0" />
+                  <test-case name="AllCodeITF" executed="True" result="Success" success="True" time="0.027" asserts="0" />
+                  <test-case name="AutoTypes" executed="True" result="Success" success="True" time="0.094" asserts="0" />
+                </results>
+              </test-suite>
+          </results>
+        </test-suite>
+    </results>
+  </test-suite>
+</test-results>
